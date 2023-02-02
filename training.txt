@@ -1,4 +1,4 @@
-welcome to git
+welcome to git extensions
 welcome to training
 welcome to zeus
 welcome everyone
