@@ -1,4 +1,6 @@
 welcome to git extensions from here
+new change is here
+hello welcome to next session
 welcome to training
 welcome to zeus
 welcome everyone
